@@ -17,9 +17,14 @@ body {
   opacity: 89%;
   margin-bottom: 15px;
 }
+
 p {
   color: #4d595e;
   text-align: center;
+}
+
+audio {
+  margin: 50px 0px;
 }
 
 .quadros img {
@@ -39,7 +44,7 @@ p {
 }
 
 .quadros div{
-  margin-top: 70px;
+  margin-bottom: 70px;
 }
 
 .aolado {
